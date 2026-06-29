@@ -2,7 +2,7 @@ component,value_part_number,qty,source,notes
 Microcontroller,ESP32-D0WD-V3 dev board,1,Elegoo kit,-
 Current/voltage sensor,INA219 breakout,1,HiLetgo (Amazon),I2C; 0x40 default address
 Temperature sensor,DS18B20 TO-92,1,Elegoo kit,1-Wire; requires 4.7kΩ pull-up to 3.3V
-OLED display,SSD1306 0.96"" 128x64 I2C bi-color,1,Elegoo kit,0x3C address
+OLED display,SSD1306 0.96in 128x64 I2C bi-color,1,Elegoo kit,0x3C address
 microSD module,HiLetgo SPI microSD adapter,1,Amazon,AMS1117 + 74LVC125A onboard; must be powered from 5V not 3.3V
 Resistor,4.7kΩ,1,BOJACK assortment,DS18B20 1-Wire pull-up (DATA to 3.3V)
 Button,Tactile pushbutton,1,Elegoo kit,GPIO 17; active-low with internal pull-up
